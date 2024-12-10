@@ -1,0 +1,82 @@
+[
+    {
+        "tipoBermuda": "AJUSTADA",
+        "precio": 22.99,
+        "id": "BA001",
+        "stock": 50,
+        "nombre": "Bermuda Algodón",
+        "tallaLetra": "MEDIUM"
+    },
+    {
+        "tipoBermuda": "CASUAL",
+        "precio": 25.99,
+        "id": "BC004",
+        "stock": 60,
+        "nombre": "Bermuda Clásica",
+        "tallaLetra": "XLARGE"
+    },
+    {
+        "tipoBermuda": "AJUSTADA",
+        "precio": 24.99,
+        "id": "BC006",
+        "stock": 45,
+        "nombre": "Bermuda Chino",
+        "tallaLetra": "MEDIUM"
+    },
+    {
+        "tipoBermuda": "PIERNA_ANCHA",
+        "precio": 32.49,
+        "id": "BC007",
+        "stock": 55,
+        "nombre": "Bermuda Cargo",
+        "tallaLetra": "LARGE"
+    },
+    {
+        "tipoBermuda": "DEPORTIVA",
+        "precio": 19.99,
+        "id": "BD005",
+        "stock": 30,
+        "nombre": "Bermuda Deporte",
+        "tallaLetra": "XSMALL"
+    },
+    {
+        "tipoBermuda": "A_MEDIDA",
+        "precio": 35.49,
+        "id": "BJ003",
+        "stock": 40,
+        "nombre": "Bermuda Jeans",
+        "tallaLetra": "SMALL"
+    },
+    {
+        "tipoBermuda": "PIERNA_ANCHA",
+        "precio": 29.99,
+        "id": "BL002",
+        "stock": 75,
+        "nombre": "Bermuda Lino",
+        "tallaLetra": "LARGE"
+    },
+    {
+        "tipoBermuda": "DEPORTIVA",
+        "precio": 28.49,
+        "id": "BM010",
+        "stock": 50,
+        "nombre": "Bermuda Montaña",
+        "tallaLetra": "SMALL"
+    },
+    {
+        "tipoBermuda": "CASUAL",
+        "precio": 15.99,
+        "id": "BP009",
+        "stock": 25,
+        "nombre": "Bermuda Playa",
+        "tallaLetra": "LARGE"
+    },
+    {
+        "tipoBermuda": "A_MEDIDA",
+        "precio": 27.99,
+        "id": "BT008",
+        "stock": 35,
+        "nombre": "Bermuda Táctica",
+        "tallaLetra": "MEDIUM"
+    }
+]

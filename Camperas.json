@@ -1,0 +1,82 @@
+[
+    {
+        "tipoCampera": "AISLANTE",
+        "precio": 89.99,
+        "talla": 38,
+        "id": "CA003",
+        "stock": 40,
+        "nombre": "Campera Aislante"
+    },
+    {
+        "tipoCampera": "AISLANTE",
+        "precio": 99.99,
+        "talla": 41,
+        "id": "CA006",
+        "stock": 45,
+        "nombre": "Campera Aislante Térmica"
+    },
+    {
+        "tipoCampera": "AISLANTE",
+        "precio": 79.99,
+        "talla": 45,
+        "id": "CA009",
+        "stock": 25,
+        "nombre": "Campera Aislante Ligera"
+    },
+    {
+        "tipoCampera": "NIEVE",
+        "precio": 129.99,
+        "talla": 42,
+        "id": "CN002",
+        "stock": 75,
+        "nombre": "Campera de Nieve"
+    },
+    {
+        "tipoCampera": "NIEVE",
+        "precio": 149.99,
+        "talla": 39.5,
+        "id": "CN005",
+        "stock": 30,
+        "nombre": "Campera de Nieve Impermeable"
+    },
+    {
+        "tipoCampera": "NIEVE",
+        "precio": 159.99,
+        "talla": 37,
+        "id": "CN008",
+        "stock": 35,
+        "nombre": "Campera de Nieve de Montaña"
+    },
+    {
+        "tipoCampera": "ROMPE_VIENTO",
+        "precio": 59.99,
+        "talla": 40,
+        "id": "CR001",
+        "stock": 50,
+        "nombre": "Campera Rompe Viento"
+    },
+    {
+        "tipoCampera": "ROMPE_VIENTO",
+        "precio": 49.99,
+        "talla": 44,
+        "id": "CR004",
+        "stock": 60,
+        "nombre": "Campera Rompe Viento Ligera"
+    },
+    {
+        "tipoCampera": "ROMPE_VIENTO",
+        "precio": 69.99,
+        "talla": 43,
+        "id": "CR007",
+        "stock": 55,
+        "nombre": "Campera Rompe Viento Deportiva"
+    },
+    {
+        "tipoCampera": "ROMPE_VIENTO",
+        "precio": 54.99,
+        "talla": 36,
+        "id": "CR010",
+        "stock": 50,
+        "nombre": "Campera Rompe Viento Compacta"
+    }
+]

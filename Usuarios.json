@@ -1,0 +1,184 @@
+[
+    {
+        "historial": [],
+        "admin": false,
+        "carrito": {
+            "fecha": "2024-06-25T15:44:47.286866800",
+            "productos": []
+        },
+        "nombre": "ANGEL MANCO",
+        "email": "Angel.manco@gmail.com"
+    },
+    {
+        "historial": [{
+            "fecha": "2024-06-27T18:33:33.206441200",
+            "productos": [
+                {
+                    "precio": 39.99,
+                    "talla": 40,
+                    "capucha": true,
+                    "id": "BD001",
+                    "stock": 48,
+                    "nombre": "Messi"
+                },
+                {
+                    "tipoRemera": "M_LARGA",
+                    "precio": 24.99,
+                    "talla": 40,
+                    "id": "RM002",
+                    "stock": 71,
+                    "nombre": "Remera Manga Larga"
+                }
+            ]
+        }],
+        "admin": false,
+        "carrito": {
+            "fecha": "2024-06-27T18:33:33.206441200",
+            "productos": []
+        },
+        "nombre": "MARTIN RODRIGUEZ",
+        "email": "Martin@gmail.com"
+    },
+    {
+        "historial": [],
+        "admin": false,
+        "carrito": {
+            "fecha": "2024-06-26T22:52:48.877806600",
+            "productos": [
+                {
+                    "precio": 44.99,
+                    "talla": 42,
+                    "capucha": false,
+                    "id": "BC002",
+                    "stock": 74,
+                    "nombre": "Buzo Casual"
+                },
+                {
+                    "tipoRemera": "M_CORTA",
+                    "precio": 19.99,
+                    "talla": 38,
+                    "id": "RM001",
+                    "stock": 48,
+                    "nombre": "Remera Manga Corta"
+                }
+            ]
+        },
+        "nombre": "MATEO LOPEZ",
+        "email": "Mateo.Lopez@gmail.com"
+    },
+    {
+        "historial": [
+            {
+                "fecha": "2024-06-25T20:10:19.470689600",
+                "productos": [
+                    {
+                        "tipoRemera": "M_LARGA",
+                        "precio": 24.99,
+                        "talla": 40,
+                        "id": "RM002",
+                        "stock": 74,
+                        "nombre": "Remera Manga Larga"
+                    },
+                    {
+                        "tipoRemera": "M_CORTA",
+                        "precio": 19.99,
+                        "talla": 38,
+                        "id": "RM001",
+                        "stock": 49,
+                        "nombre": "Remera Manga Corta"
+                    }
+                ]
+            },
+            {
+                "fecha": "2024-06-25T20:12:13.406535100",
+                "productos": [{
+                    "tipoRemera": "M_LARGA",
+                    "precio": 24.99,
+                    "talla": 40,
+                    "id": "RM002",
+                    "stock": 72,
+                    "nombre": "Remera Manga Larga"
+                }]
+            },
+            {
+                "fecha": "2024-06-27T18:09:00.611253100",
+                "productos": [{
+                    "tipoRemera": "M_LARGA",
+                    "precio": 24.99,
+                    "talla": 40,
+                    "id": "RM002",
+                    "stock": 71,
+                    "nombre": "Remera Manga Larga"
+                }]
+            }
+        ],
+        "admin": true,
+        "carrito": {
+            "fecha": "2024-06-27T18:09:00.611253100",
+            "productos": []
+        },
+        "nombre": "MATIAS FIGLIUOLO",
+        "email": "Matias@gmail.com"
+    },
+    {
+        "historial": [],
+        "admin": false,
+        "carrito": {
+            "fecha": "2023-11-10T08:20:45",
+            "productos": [{
+                "tipoCampera": "NIEVE",
+                "precio": 129.99,
+                "talla": 42,
+                "id": "CN002",
+                "stock": 75,
+                "nombre": "Campera de Nieve"
+            }]
+        },
+        "nombre": "CARLOS GARCIA",
+        "email": "carlos.garcia@gmail.com"
+    },
+    {
+        "historial": [],
+        "admin": false,
+        "carrito": {
+            "fecha": "2023-06-23T10:15:30",
+            "productos": [
+                {
+                    "tipoCampera": "ROMPE_VIENTO",
+                    "precio": 59.99,
+                    "talla": 40,
+                    "id": "CR001",
+                    "stock": 50,
+                    "nombre": "Campera Rompe Viento"
+                },
+                {
+                    "precio": 49.99,
+                    "id": "PJ002",
+                    "stock": 75,
+                    "tipoPantalon": "JEANS",
+                    "nombre": "Pantalón Jeans",
+                    "tallaLetra": "LARGE"
+                }
+            ]
+        },
+        "nombre": "JUAN PEREZ",
+        "email": "juan.perez@gmail.com"
+    },
+    {
+        "historial": [],
+        "admin": true,
+        "carrito": {
+            "fecha": "2024-01-15T14:30",
+            "productos": [{
+                "precio": 29.99,
+                "id": "PJ001",
+                "stock": 50,
+                "tipoPantalon": "JOGGING",
+                "nombre": "Pantalón Jogging",
+                "tallaLetra": "MEDIUM"
+            }]
+        },
+        "nombre": "MARIA LOPEZ",
+        "email": "maria.lopez@gmail.com"
+    }
+]
